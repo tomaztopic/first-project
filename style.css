@@ -1,0 +1,92 @@
+#red {
+     color: red;
+ }
+
+#blue {
+     color: blue;
+ }
+
+ span {
+    margin-right: 50px;
+    background-color: azure;
+    color: pink;
+
+ }
+    .red {
+        color: red;
+     }
+
+     .yellow {
+        color: yellow;
+     }
+
+     #Poudarjen {
+        border: solid 2px red;
+        color: green;
+
+     }
+
+     .image {
+        border: 6px black dotted;
+     }
+
+     .image:hover {
+        border: 4px red solid;
+     }
+
+     .navigation {
+        background-color: red;
+        height: 50px;
+        width: auto;
+
+     }
+     #main{
+            background-color: green;
+            width: 200px;
+            margin: 0 auto;
+            height: 50px;
+     }
+
+     .move {
+            background-color: blue;
+            margin: 100px;
+            padding: 100px;
+     }
+
+     .relative1{
+        background-color: yellow;
+        position: relative;
+        width: 300px;
+        height: 50px;
+
+     }
+
+     .relative2 {
+        background-color: pink;
+        position: relative;
+        top: -20px;
+        left: 20px;
+        width: 200px;
+        height: 50px;
+
+     }
+
+     .fixed {
+        background-color: orange;
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+        width: 200px;
+        height: 50px;
+     }
+
+    .absolute {
+        background-color: purple;
+        position: absolute;
+        top: 350px;
+        left: 150px;
+        width: 300px;
+        height: 75px;
+
+    }
+
